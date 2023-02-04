@@ -2,7 +2,6 @@
   "name": "kings",
   "version": "1.0.0",
   "description": "Notes on A Way Of Kings series",
-  "main": "index.js",
   "scripts": {
     "watch:sass": "node-sass sass/main.scss css/style.css -w",
     "devserver": "live-server",
