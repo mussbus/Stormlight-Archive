@@ -1,0 +1,20 @@
+.header {
+  background-color: $color-secondary;
+  height: 70vh;
+  padding: 8rem;
+
+  &__chapter {
+    background-color: $color-secondary-light;
+    min-height: 20vh;
+    padding: 8rem;
+
+    &-text {
+      font-size: $header-font-size;
+      line-height: 1.6;
+    }
+    &-question {
+      font-size: $header-font-size;
+      color: $color-gold;
+    }
+  }
+}

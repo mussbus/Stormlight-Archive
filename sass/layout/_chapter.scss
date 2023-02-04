@@ -1,0 +1,29 @@
+.chapter {
+  // margin: 4rem 10rem;
+  padding: 4rem 14rem;
+  background-color: $color-primary-light;
+
+  &__list {
+    padding: 6rem;
+
+    &-item {
+      list-style: circle;
+      font-size: $chapter-font-size;
+      line-height: 1.6;
+      &:not(:last-child) {
+        margin-bottom: 1.6rem;
+        border-bottom: 1px solid $color-gray-light-1;
+      }
+    }
+  }
+
+  &__question {
+    padding: 6rem;
+
+    &-item {
+      list-style: circle;
+      font-size: $chapter-font-size;
+      line-height: 1.6;
+    }
+  }
+}
