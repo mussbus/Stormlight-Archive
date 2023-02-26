@@ -4,32 +4,40 @@ class navigationView extends View {
   _parentElement = document.querySelector('.navigation');
   // BASE_URL = `http://127.0.0.1:8080/`;
   _generateMarkup() {
-    console.log(screen.width);
-    if (screen.width > 500)
+    if (screen.width > 800)
       return `<span class="navigation__edge"></span>
         <span class="navigation__main">
           <ul class="navigation__list">
             <li class="navigation__list-item">
-              <a href="/" class="navigation__link navigation__link-active">
-                Home
-              </a>
+            <a href="/" class="navigation__link navigation__link-active">
+            Home
+            </a>
+            
             </li>
             <li class="navigation__list-item">
-              <a
-                href="Books/TheWayOfKings/AboveSilence/prologue.html"
-                class="navigation__link"
-              >
-                Books
-              </a>
+              <div class="navigation__dropdown-menu">
+                <a
+                  href="/Books/Books.html"
+                  class="navigation__link"
+                >
+                  Books
+                </a>
+                <div class="navigation__dropdown-content">
+                  <a href="/Books/TheWayOfKings/TheWayOfKings.html" class="navigation__dropdown-link">The Way Of Kings</a>
+                  <a href="/Books/WordsOfRadiance/WordsOfRadiance.html" class="navigation__dropdown-link">Words Of Radiance</a>
+                  <a href="/Books/Oathbringer/Oathbringer.html" class="navigation__dropdown-link">Oathbringer</a>
+                  <a href="/Books/RhythmOfWar/RhythmOfWar.html" class="navigation__dropdown-link">Rhythm Of War</a>
+                </div>
+              </div>
             </li>
             <li class="navigation__list-item">
-              <a href="#" class="navigation__link">Characters</a>
+              <a href="/Characters/Characters.html" class="navigation__link">Characters</a>
             </li>
             <li class="navigation__list-item">
-              <a href="#" class="navigation__link">Questions</a>
+              <a href="/Questions/Questions.html" class="navigation__link">Questions</a>
             </li>
             <li class="navigation__list-item">
-              <a href="#" class="navigation__link">Theories</a>
+              <a href="/Theories/Theories.html" class="navigation__link">Theories</a>
             </li>
           </ul>
         </span>

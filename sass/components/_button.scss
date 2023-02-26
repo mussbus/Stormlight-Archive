@@ -2,9 +2,10 @@
   &__container {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
     margin: auto;
-    width: 40rem;
+    gap: 5rem;
     padding: $gutter-vertical-small 0;
   }
 

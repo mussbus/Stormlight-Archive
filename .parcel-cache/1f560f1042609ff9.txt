@@ -1,7 +1,7 @@
-12210
+12227
 65E:\VSCode\Kings\node_modules\@jridgewell\resolve-uri\package.json133182841365906885 0
 88E:\VSCode\Kings\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_dump.1133182841418516693 0
-40E:\VSCode\Kings\sass\layout\_footer.scss133216836252383608 0
+40E:\VSCode\Kings\sass\layout\_footer.scss133218559397330266 0
 58E:\VSCode\Kings\node_modules\socks\docs\migratingFromV1.md133182841422129829 0
 65E:\VSCode\Kings\node_modules\es-abstract\2020\IsDetachedBuffer.js133182841479587789 0
 105E:\VSCode\Kings\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob133182841460334207 1
@@ -67,7 +67,7 @@
 36E:\VSCode\Kings\node_modules\mime-db133182841392907721 1
 71E:\VSCode\Kings\node_modules\fast-glob\out\providers\filters\error.d.ts133182841429102332 0
 69E:\VSCode\Kings\node_modules\node-sass\test\fixtures\sass-path\orange133182841474763601 1
-30E:\VSCode\Kings\sass\main.scss133216836444352943 0
+30E:\VSCode\Kings\sass\main.scss133218588131923764 0
 70E:\VSCode\Kings\node_modules\entities\lib\generated\decode-data-xml.js133182841375454453 0
 96E:\VSCode\Kings\node_modules\read-pkg-up\node_modules\normalize-package-data\lib\make_warning.js133182841390414892 0
 56E:\VSCode\Kings\node_modules\es-to-primitive\test\es6.js133182841394469089 0
@@ -104,7 +104,7 @@
 58E:\VSCode\Kings\node_modules\nanoid\async\index.browser.js133182841395039582 0
 37E:\VSCode\Kings\node_modules\css-tree133182841463156660 1
 78E:\VSCode\Kings\node_modules\es-abstract\2020\OrdinaryCreateFromConstructor.js133182841482450276 0
-20E:\VSCode\Kings\dist133218548562889291 1
+20E:\VSCode\Kings\dist133218634509560525 1
 60E:\VSCode\Kings\node_modules\source-map-support\node_modules133182841347003593 1
 49E:\VSCode\Kings\node_modules\lodash\fp\inRange.js133182841475644362 0
 78E:\VSCode\Kings\node_modules\node-gyp\node_modules\are-we-there-yet\LICENSE.md133182841378457060 0
@@ -127,7 +127,7 @@
 35E:\VSCode\Kings\node_modules\@types133182841346893500 1
 70E:\VSCode\Kings\node_modules\caniuse-lite\data\features\css-nesting.js133182841466876726 0
 36E:\VSCode\Kings\sass\base\_base.scss133183938852076357 0
-26E:\VSCode\Kings\index.html133214257503387045 0
+26E:\VSCode\Kings\index.html133218562059891355 0
 39E:\VSCode\Kings\node_modules\fill-range133182841367167982 1
 67E:\VSCode\Kings\node_modules\es-abstract\2022\ValidateTypedArray.js133182841489807096 0
 52E:\VSCode\Kings\node_modules\semver\ranges\subset.js133182841429792933 0
@@ -147,7 +147,7 @@
 56E:\VSCode\Kings\node_modules\es-abstract\2019\ToUint8.js133182841489016414 0
 44E:\VSCode\Kings\node_modules\lodash\_Hash.js133182841465275337 0
 45E:\VSCode\Kings\node_modules\node-gyp\gyp\gyp133182841366277207 0
-18E:\VSCode\Kings\js133206965890986190 1
+18E:\VSCode\Kings\js133218615748767035 1
 53E:\VSCode\Kings\node_modules\node-gyp-build\README.md133182841393318076 0
 67E:\VSCode\Kings\node_modules\unique-filename\.nyc_output\54944.json133182841376145053 0
 54E:\VSCode\Kings\node_modules\posthtml-render\readme.md133182841375074124 0
@@ -204,10 +204,14 @@
 74E:\VSCode\Kings\node_modules\@parcel\package-manager\src\installPackage.js133182841425412679 0
 74E:\VSCode\Kings\node_modules\@parcel\reporter-cli\test\CLIReporter.test.js133182841417916170 0
 71E:\VSCode\Kings\node_modules\es-abstract\2017\OrdinarySetPrototypeOf.js133182841483931562 0
-27E:\VSCode\Kings\sample.html133218445342057193 0
+27E:\VSCode\Kings\sample.html133218607774790176 0
 76E:\VSCode\Kings\node_modules\iconv-lite\encodings\tables\gb18030-ranges.json133182841419817820 0
 73E:\VSCode\Kings\node_modules\node-sass\src\libsass\src\sass_functions.cpp133182841455298940 0
 34E:\VSCode\Kings\node_modules\chalk133182841378427031 1
+43E:\VSCode\Kings\node_modules\agentkeepalive133182841396060465 1
+58E:\VSCode\Kings\node_modules\y18n\build\lib\platform-shims133182841374923989 1
+62E:\VSCode\Kings\node_modules\es-abstract\2019\UTF16Encoding.js133182841489456793 0
+25E:\VSCode\Kings\Test.html133218580586170725 0
 69E:\VSCode\Kings\node_modules\yaml\browser\dist\PlainValue-b8036b75.js133182841420108073 0
 62E:\VSCode\Kings\node_modules\es-abstract\2017\MonthFromTime.js133182841481499441 0
 42E:\VSCode\Kings\sass\base\_animations.scss133122429307881965 0
@@ -241,6 +245,10 @@
 40E:\VSCode\Kings\node_modules\glob-parent133182841371330873 1
 54E:\VSCode\Kings\node_modules\yargs\build\lib\yerror.js133182841423911380 0
 25E:\VSCode\Kings\sass\base133182843134925457 1
+47E:\VSCode\Kings\node_modules\svgo\lib\parser.js133182841427974912 0
+47E:\VSCode\Kings\node_modules\caseless\README.md133182841359681478 0
+59E:\VSCode\Kings\node_modules\es-abstract\operations\2019.js133182841410629761 0
+38E:\VSCode\Kings\sass\layout\_main.scss133218589426193175 0
 31E:\VSCode\Kings\sass\components133216836379122335 1
 44E:\VSCode\Kings\node_modules\.bin\nanoid.cmd133182842064521213 0
 100E:\VSCode\Kings\node_modules\read-pkg\node_modules\normalize-package-data\lib\extract_description.js133182841374323467 0
@@ -275,7 +283,7 @@
 73E:\VSCode\Kings\node_modules\node-gyp\node_modules\gauge\lib\theme-set.js133182841409989205 0
 90E:\VSCode\Kings\node_modules\@parcel\optimizer-image\parcel-image.linux-arm-gnueabihf.node133182841544490173 0
 67E:\VSCode\Kings\node_modules\fast-json-stable-stringify\.travis.yml133182841412851771 0
-27E:\VSCode\Kings\sass\layout133184897432699533 1
+27E:\VSCode\Kings\sass\layout133218587628921101 1
 26E:\VSCode\Kings\sass\pages133182843135966362 1
 73E:\VSCode\Kings\node_modules\supports-preserve-symlinks-flag\CHANGELOG.md133182841391396413 0
 45E:\VSCode\Kings\node_modules\dependency-graph133182841377045834 1
@@ -294,15 +302,15 @@
 47E:\VSCode\Kings\node_modules\lodash\fp\paths.js133182841480028164 0
 61E:\VSCode\Kings\node_modules\es-abstract\2018\StringCreate.js133182841487204303 0
 45E:\VSCode\Kings\node_modules\pidtree\index.js133182841369799538 0
-41E:\VSCode\Kings\sass\layout\_chapter.scss133216837897807085 0
+41E:\VSCode\Kings\sass\layout\_chapter.scss133218589758781603 0
 59E:\VSCode\Kings\node_modules\es-abstract\2018\CreateHTML.js133182841466326243 0
 72E:\VSCode\Kings\node_modules\caniuse-lite\data\features\ambient-light.js133182841431264214 0
 48E:\VSCode\Kings\node_modules\reusify\.travis.yml133182841364465633 0
 75E:\VSCode\Kings\node_modules\@jridgewell\trace-mapping\dist\types\sort.d.ts133182841410599737 0
-44E:\VSCode\Kings\sass\components\_button.scss133218445831620240 0
+44E:\VSCode\Kings\sass\components\_button.scss133218604683383633 0
 34E:\VSCode\Kings\node_modules\socks133182841428004936 1
 76E:\VSCode\Kings\node_modules\postcss-load-config\node_modules\yaml\README.md133182841464624770 0
-44E:\VSCode\Kings\sass\layout\_navigation.scss133218544947420865 0
+44E:\VSCode\Kings\sass\layout\_navigation.scss133218631084193810 0
 57E:\VSCode\Kings\node_modules\@parcel\packager-svg\LICENSE133182841398672730 0
 60E:\VSCode\Kings\node_modules\css-tree\lib\syntax\node\CDC.js133182841402613843 0
 40E:\VSCode\Kings\node_modules\es-abstract133182841489917193 1
@@ -420,7 +428,6 @@
 65E:\VSCode\Kings\node_modules\css-tree\lib\syntax\config\walker.js133182841462776328 0
 47E:\VSCode\Kings\node_modules\delegates\index.js133182841364675818 0
 34E:\VSCode\Kings\node_modules\acorn133182841396731046 1
-43E:\VSCode\Kings\node_modules\agentkeepalive133182841396060465 1
 44E:\VSCode\Kings\node_modules\aggregate-error133182841371280839 1
 58E:\VSCode\Kings\node_modules\is-bigint\.github\FUNDING.yml133182841396170554 0
 77E:\VSCode\Kings\node_modules\source-map-support\browser-source-map-support.js133182841359231089 0
@@ -466,7 +473,7 @@
 53E:\VSCode\Kings\node_modules\scss-tokenizer\README.md133182841400872470 0
 56E:\VSCode\Kings\node_modules\@parcel\workers\src\process133182841424551937 1
 42E:\VSCode\Kings\node_modules\svgo\bin\svgo133182841361723258 0
-32E:\VSCode\Kings\Books\Books.html133218521778202044 0
+32E:\VSCode\Kings\Books\Books.html133218591315178493 0
 89E:\VSCode\Kings\node_modules\node-sass\test\fixtures\extras\my_custom_importer_file_cb.js133182841467026851 0
 49E:\VSCode\Kings\node_modules\fs-minipass\index.js133182841360702365 0
 56E:\VSCode\Kings\node_modules\lodash\fp\trimCharsStart.js133182841482039912 0
@@ -575,6 +582,7 @@
 57E:\VSCode\Kings\node_modules\bcrypt-pbkdf\CONTRIBUTING.md133182841374493619 0
 44E:\VSCode\Kings\node_modules\lodash\chunk.js133182841467977683 0
 35E:\VSCode\Kings\node_modules\npmlog133182841367268071 1
+43E:\VSCode\Kings\dist\index.6bc5c86c.css.map133218634509550512 0
 65E:\VSCode\Kings\node_modules\es-abstract\2017\CompletionRecord.js133182841464614762 0
 54E:\VSCode\Kings\node_modules\postcss\lib\fromJSON.d.ts133182841450315829 0
 48E:\VSCode\Kings\node_modules\yallist\iterator.js133182841360672340 0
@@ -608,6 +616,7 @@
 80E:\VSCode\Kings\node_modules\load-json-file\node_modules\parse-json\package.json133182841357529605 0
 59E:\VSCode\Kings\node_modules\smart-buffer\docs\CHANGELOG.md133182841392527395 0
 53E:\VSCode\Kings\node_modules\postcss-cli\package.json133182841422670301 0
+66E:\VSCode\Kings\Books\WordsOfRadiance\WindsApproach\Chapter17.html133217693720026172 0
 59E:\VSCode\Kings\node_modules\@parcel\watcher\src\DirTree.hh133182841421949673 0
 38E:\VSCode\Kings\node_modules\camelcase133182841371370911 1
 43E:\VSCode\Kings\node_modules\har-schema\lib133182841417095456 1
@@ -1004,6 +1013,7 @@
 50E:\VSCode\Kings\node_modules\lodash\_baseLodash.js133182841452506517 0
 54E:\VSCode\Kings\node_modules\shebang-command\readme.md133182841368469111 0
 42E:\VSCode\Kings\node_modules\get-intrinsic133182841393518259 1
+66E:\VSCode\Kings\Books\WordsOfRadiance\WindsApproach\Chapter19.html133217693720026172 0
 47E:\VSCode\Kings\node_modules\node-sass\bin\emcc133182841410309493 0
 45E:\VSCode\Kings\node_modules\globby\ignore.js133182841364295486 0
 55E:\VSCode\Kings\node_modules\request\lib\querystring.js133182841399913809 0
@@ -1505,6 +1515,7 @@
 59E:\VSCode\Kings\node_modules\css-select\lib\attributes.d.ts133182841422680309 0
 65E:\VSCode\Kings\node_modules\npm-run-all\lib\read-package-json.js133182841421829569 0
 46E:\VSCode\Kings\node_modules\tar\lib\unpack.js133182841418506682 0
+62E:\VSCode\Kings\Books\TheWayOfKings\AboveSilence\Prologue.html133218575276386716 0
 62E:\VSCode\Kings\node_modules\uri-js\dist\esnext\regexps-uri.js133182841392857682 0
 32E:\VSCode\Kings\node_modules\psl133182841411610691 1
 35E:\VSCode\Kings\node_modules\nanoid133182841418146368 1
@@ -1671,9 +1682,6 @@
 67E:\VSCode\Kings\node_modules\es-abstract\2019\GetOwnPropertyKeys.js133182841475624345 0
 48E:\VSCode\Kings\node_modules\postcss-load-config133182841377496229 1
 53E:\VSCode\Kings\node_modules\lodash\_LodashWrapper.js133182841466246176 0
-48E:\VSCode\Kings\node_modules\terser\lib\scope.js133182841448304084 0
-76E:\VSCode\Kings\node_modules\@parcel\transformer-json\src\JSONTransformer.js133182841396951241 0
-65E:\VSCode\Kings\node_modules\node-sass\src\libsass\src\cssize.hpp133182841465015113 0
 45E:\VSCode\Kings\node_modules\postcss-reporter133182841377476213 1
 73E:\VSCode\Kings\node_modules\css-tree\lib\syntax\pseudo\nth-last-child.js133182841456029487 0
 76E:\VSCode\Kings\node_modules\node-gyp\node_modules\gauge\lib\progress-bar.js133182841390454921 0
@@ -1943,6 +1951,7 @@
 78E:\VSCode\Kings\node_modules\node-gyp\gyp\.github\workflows\nodejs-windows.yml133182841464594749 0
 89E:\VSCode\Kings\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\060-contribute.md133182841453377264 0
 57E:\VSCode\Kings\node_modules\source-map-support\README.md133182841391906860 0
+66E:\VSCode\Kings\Books\WordsOfRadiance\WindsApproach\Chapter25.html133217693720026172 0
 71E:\VSCode\Kings\node_modules\es-abstract\2016\RequireObjectCoercible.js133182841486173844 0
 67E:\VSCode\Kings\node_modules\es-abstract\2015\CreateDataProperty.js133182841465745740 0
 59E:\VSCode\Kings\node_modules\resolve\test\faulty_basedir.js133182841420578481 0
@@ -2000,12 +2009,6 @@
 57E:\VSCode\Kings\node_modules\yargs-parser\build\index.cjs133182841359441271 0
 51E:\VSCode\Kings\node_modules\yargs-parser\build\lib133182841391426434 1
 60E:\VSCode\Kings\node_modules\yargs-parser\build\lib\index.js133182841368839435 0
-54E:\VSCode\Kings\node_modules\hosted-git-info\README.md133182841376155063 0
-56E:\VSCode\Kings\node_modules\nodemon\doc\cli\authors.txt133182841428525382 0
-42E:\VSCode\Kings\node_modules\touch\LICENSE133182841364795924 0
-47E:\VSCode\Kings\node_modules\http-signature\lib133182841399823731 1
-60E:\VSCode\Kings\node_modules\caniuse-lite\data\regions\TM.js133182841488145656 0
-51E:\VSCode\Kings\node_modules\yargs\helpers\index.js133182841412761697 0
 42E:\VSCode\Kings\node_modules\uuid\index.js133182841370620255 0
 55E:\VSCode\Kings\node_modules\lodash\fp\toSafeInteger.js133182841481959851 0
 49E:\VSCode\Kings\node_modules\for-each\.travis.yml133182841371060644 0
@@ -2090,12 +2093,19 @@
 53E:\VSCode\Kings\node_modules\yargs\locales\pt_BR.json133182841431524437 0
 52E:\VSCode\Kings\node_modules\globalthis\CHANGELOG.md133182841412871787 0
 57E:\VSCode\Kings\node_modules\es-abstract\2015\ToString.js133182841488836245 0
+67E:\VSCode\Kings\Books\WordsOfRadiance\WindsApproach\Interlude5.html133217693720026172 0
 59E:\VSCode\Kings\node_modules\npm-run-all\node_modules\which133182841374903976 1
 60E:\VSCode\Kings\node_modules\weak-lru-cache\rollup.config.js133182841374673775 0
 50E:\VSCode\Kings\node_modules\yargs\locales\ru.json133182841431894758 0
+50E:\VSCode\Kings\node_modules\yargs\locales\uz.json133182841433776394 0
 54E:\VSCode\Kings\node_modules\yargs\helpers\helpers.mjs133182841450475968 0
 73E:\VSCode\Kings\node_modules\unique-filename\coverage\__root__\index.html133182841390845263 0
-50E:\VSCode\Kings\node_modules\yargs\locales\uz.json133182841433776394 0
+54E:\VSCode\Kings\node_modules\hosted-git-info\README.md133182841376155063 0
+56E:\VSCode\Kings\node_modules\nodemon\doc\cli\authors.txt133182841428525382 0
+42E:\VSCode\Kings\node_modules\touch\LICENSE133182841364795924 0
+47E:\VSCode\Kings\node_modules\http-signature\lib133182841399823731 1
+60E:\VSCode\Kings\node_modules\caniuse-lite\data\regions\TM.js133182841488145656 0
+51E:\VSCode\Kings\node_modules\yargs\helpers\index.js133182841412761697 0
 103E:\VSCode\Kings\node_modules\postcss-load-config\node_modules\yaml\browser\dist\schema\common\string.js133182841462406001 0
 93E:\VSCode\Kings\node_modules\simple-update-notifier\node_modules\semver\classes\comparator.js133182841376815635 0
 63E:\VSCode\Kings\node_modules\node-gyp\lib\create-config-gypi.js133182841424672039 0
@@ -2200,6 +2210,7 @@
 45E:\VSCode\Kings\node_modules\core-util-is\lib133182841375754716 1
 43E:\VSCode\Kings\node_modules\yaml\util.d.ts133182841434402012 0
 67E:\VSCode\Kings\node_modules\msgpackr\dist\index-no-eval.min.js.map133182841427614595 0
+38E:\VSCode\Kings\dist\index.aae97dea.js133218634509500467 0
 62E:\VSCode\Kings\node_modules\caniuse-lite\data\features\eme.js133182841475294060 0
 41E:\VSCode\Kings\node_modules\yaml\util.js133182841431234186 0
 47E:\VSCode\Kings\node_modules\lodash\fp\round.js133182841480948971 0
@@ -2369,7 +2380,6 @@
 60E:\VSCode\Kings\node_modules\caniuse-lite\data\regions\BS.js133182841461415146 0
 103E:\VSCode\Kings\node_modules\postcss-load-config\node_modules\yaml\browser\dist\schema\yaml-1.1\bool.js133182841416464909 0
 48E:\VSCode\Kings\node_modules\read-pkg-up\license133182841356408641 0
-58E:\VSCode\Kings\node_modules\y18n\build\lib\platform-shims133182841374923989 1
 66E:\VSCode\Kings\node_modules\y18n\build\lib\platform-shims\node.js133182841375284305 0
 90E:\VSCode\Kings\node_modules\source-map-support\node_modules\source-map\lib\source-node.js133182841410499646 0
 57E:\VSCode\Kings\node_modules\es-abstract\2019\ToObject.js133182841488616060 0
@@ -2497,6 +2507,7 @@
 54E:\VSCode\Kings\node_modules\es-abstract\2015\floor.js133182841474953756 0
 55E:\VSCode\Kings\node_modules\node-sass\src\libsass\test133182841459963886 1
 42E:\VSCode\Kings\node_modules\which\LICENSE133182841356628828 0
+66E:\VSCode\Kings\Books\WordsOfRadiance\WindsApproach\Chapter33.html133217693720026172 0
 49E:\VSCode\Kings\node_modules\which\bin\node-which133182841361943443 0
 71E:\VSCode\Kings\node_modules\parcel\node_modules\commander\package.json133182841372742094 0
 62E:\VSCode\Kings\node_modules\es-abstract\2016\thisTimeValue.js133182841487824839 0
@@ -2508,7 +2519,7 @@
 49E:\VSCode\Kings\node_modules\weak-lru-cache\tests133182841376125040 1
 52E:\VSCode\Kings\node_modules\unique-slug\.travis.yml133182841359471302 0
 49E:\VSCode\Kings\node_modules\side-channel\LICENSE133182841367438219 0
-51E:\VSCode\Kings\Books\WordsOfRadiance\WindsApproach133217718682834542 1
+51E:\VSCode\Kings\Books\WordsOfRadiance\WindsApproach133218613756197344 1
 59E:\VSCode\Kings\node_modules\nodemon\lib\config\defaults.js133182841399013026 0
 62E:\VSCode\Kings\node_modules\weak-lru-cache\tests\benchmark.js133182841362994358 0
 57E:\VSCode\Kings\node_modules\weak-lru-cache\tests\test.js133182841376625469 0
@@ -3135,6 +3146,9 @@
 57E:\VSCode\Kings\node_modules\promise-inflight\inflight.js133182841368258928 0
 60E:\VSCode\Kings\node_modules\smart-buffer\typings\utils.d.ts133182841410159352 0
 53E:\VSCode\Kings\node_modules\terser\lib\propmangle.js133182841434246803 0
+48E:\VSCode\Kings\node_modules\terser\lib\scope.js133182841448304084 0
+76E:\VSCode\Kings\node_modules\@parcel\transformer-json\src\JSONTransformer.js133182841396951241 0
+65E:\VSCode\Kings\node_modules\node-sass\src\libsass\src\cssize.hpp133182841465015113 0
 47E:\VSCode\Kings\node_modules\terser\lib\size.js133182841450385890 0
 47E:\VSCode\Kings\node_modules\read-pkg\readme.md133182841368158845 0
 52E:\VSCode\Kings\node_modules\terser\lib\sourcemap.js133182841450596068 0
@@ -3295,7 +3309,6 @@
 60E:\VSCode\Kings\node_modules\@parcel\core\src\BundleGraph.js133182841433856464 0
 41E:\VSCode\Kings\node_modules\svgo\plugins133182841451435584 1
 88E:\VSCode\Kings\node_modules\simple-update-notifier\node_modules\semver\classes\range.js133182841424992319 0
-65E:\VSCode\Kings\Books\WordsOfRadiance\WindsApproach\Chapter7.html133217693720026172 0
 98E:\VSCode\Kings\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias\dist.js133182841421719473 0
 61E:\VSCode\Kings\node_modules\svgo\plugins\removeEmptyAttrs.js133182841431404334 0
 60E:\VSCode\Kings\node_modules\caniuse-lite\data\regions\GR.js133182841478176562 0
@@ -3445,7 +3458,6 @@
 100E:\VSCode\Kings\node_modules\node-sass\test\fixtures\extras\my_custom_functions_string_conversion.js133182841466996825 0
 75E:\VSCode\Kings\node_modules\svgo\node_modules\commander\typings\index.d.ts133182841396200585 0
 50E:\VSCode\Kings\node_modules\svgo\lib\css-tools.js133182841422370030 0
-47E:\VSCode\Kings\node_modules\svgo\lib\parser.js133182841427974912 0
 45E:\VSCode\Kings\node_modules\.bin\nodemon.cmd133182842064531221 0
 76E:\VSCode\Kings\node_modules\@parcel\optimizer-terser\src\TerserOptimizer.js133182841410569715 0
 50E:\VSCode\Kings\node_modules\svgo\lib\svgo-node.js133182841452416452 0
@@ -3586,7 +3598,6 @@
 71E:\VSCode\Kings\node_modules\es-abstract\2022\OrdinarySetPrototypeOf.js133182841484021637 0
 52E:\VSCode\Kings\node_modules\resolve\test\subdirs.js133182841455268916 0
 66E:\VSCode\Kings\node_modules\string.prototype.trimend\CHANGELOG.md133182841412071090 0
-67E:\VSCode\Kings\Books\WordsOfRadiance\WindsApproach\Interlude4.html133217693720026172 0
 62E:\VSCode\Kings\node_modules\string.prototype.trimend\index.js133182841392677525 0
 61E:\VSCode\Kings\node_modules\string.prototype.trimend\LICENSE133182841370480133 0
 66E:\VSCode\Kings\node_modules\string.prototype.trimend\package.json133182841410759881 0
@@ -3902,6 +3913,7 @@
 72E:\VSCode\Kings\node_modules\@parcel\core\node_modules\semver\bin\semver133182841362083565 0
 53E:\VSCode\Kings\node_modules\source-map\source-map.js133182841402443697 0
 53E:\VSCode\Kings\node_modules\lodash\_createPartial.js133182841463777193 0
+66E:\VSCode\Kings\Books\WordsOfRadiance\WindsApproach\Chapter31.html133217693720026172 0
 60E:\VSCode\Kings\node_modules\source-map\lib\binary-search.js133182841373452713 0
 56E:\VSCode\Kings\node_modules\source-map\lib\read-wasm.js133182841378216846 0
 51E:\VSCode\Kings\node_modules\source-map\lib\wasm.js133182841411940978 0
@@ -4538,7 +4550,7 @@
 48E:\VSCode\Kings\node_modules\request\lib\hawk.js133182841376775598 0
 49E:\VSCode\Kings\node_modules\object-keys\index.js133182841378176818 0
 53E:\VSCode\Kings\node_modules\request\lib\multipart.js133182841394649239 0
-32E:\VSCode\Kings\js\controller.js133218428347070743 0
+32E:\VSCode\Kings\js\controller.js133218629137915897 0
 61E:\VSCode\Kings\node_modules\regexp.prototype.flags\.eslintrc133182841359551367 0
 47E:\VSCode\Kings\node_modules\fs-extra\README.md133182841426183357 0
 64E:\VSCode\Kings\node_modules\regexp.prototype.flags\CHANGELOG.md133182841411310354 0
@@ -4564,7 +4576,7 @@
 70E:\VSCode\Kings\node_modules\node-sass\test\fixtures\indent\index.sass133182841474653498 0
 48E:\VSCode\Kings\node_modules\redent\package.json133182841356238489 0
 53E:\VSCode\Kings\node_modules\node-gyp\gyp\tools\emacs133182841464027417 1
-29E:\VSCode\Kings\css\style.css133218547808155919 0
+29E:\VSCode\Kings\css\style.css133218634348897584 0
 65E:\VSCode\Kings\node_modules\css-what\lib\commonjs\parse.d.ts.map133182841410769890 0
 74E:\VSCode\Kings\node_modules\es-abstract\2022\ToZeroPaddedDecimalString.js133182841489056444 0
 45E:\VSCode\Kings\node_modules\redent\readme.md133182841372281697 0
@@ -5459,6 +5471,7 @@
 62E:\VSCode\Kings\node_modules\fast-glob\out\managers\tasks.d.ts133182841433746361 0
 48E:\VSCode\Kings\node_modules\braces\package.json133182841355998280 0
 52E:\VSCode\Kings\node_modules\postcss\lib\tokenize.js133182841431604510 0
+66E:\VSCode\Kings\Books\WordsOfRadiance\WindsApproach\Chapter18.html133217693720026172 0
 53E:\VSCode\Kings\node_modules\postcss\lib\warn-once.js133182841431784658 0
 47E:\VSCode\Kings\node_modules\node-gyp\gyp\pylib133182841453527414 1
 53E:\VSCode\Kings\node_modules\postcss\lib\warning.d.ts133182841453707552 0
@@ -6143,6 +6156,7 @@
 55E:\VSCode\Kings\node_modules\@parcel\compressor-raw\src133182841411950983 1
 51E:\VSCode\Kings\node_modules\nanoid\async\index.cjs133182841369679449 0
 47E:\VSCode\Kings\node_modules\minipass\README.md133182841370880480 0
+66E:\VSCode\Kings\Books\WordsOfRadiance\WindsApproach\Chapter16.html133217693720026172 0
 79E:\VSCode\Kings\node_modules\node-sass\test\fixtures\watching-dir-02\index.scss133182841474883704 0
 59E:\VSCode\Kings\node_modules\es-abstract\operations\2018.js133182841402753966 0
 79E:\VSCode\Kings\node_modules\node-sass\src\libsass\docs\source-map-internals.md133182841473662640 0
@@ -6858,7 +6872,6 @@
 43E:\VSCode\Kings\node_modules\lodash\core.js133182841468358015 0
 47E:\VSCode\Kings\node_modules\lodash\core.min.js133182841472954238 0
 46E:\VSCode\Kings\node_modules\lodash\countBy.js133182841473032461 0
-65E:\VSCode\Kings\Books\WordsOfRadiance\WindsApproach\Chapter4.html133217693720026172 0
 45E:\VSCode\Kings\node_modules\lodash\create.js133182841473162205 0
 44E:\VSCode\Kings\node_modules\lodash\curry.js133182841473372384 0
 48E:\VSCode\Kings\node_modules\lodash\fp\unnest.js133182841482280125 0
@@ -7195,6 +7208,7 @@
 49E:\VSCode\Kings\node_modules\lodash\_baseClamp.js133182841422690318 0
 66E:\VSCode\Kings\node_modules\lmdb\dependencies\lz4\lib\dll\example133182841464247606 1
 49E:\VSCode\Kings\node_modules\lodash\_baseClone.js133182841423250803 0
+67E:\VSCode\Kings\Books\WordsOfRadiance\WindsApproach\Interlude8.html133217693720026172 0
 52E:\VSCode\Kings\node_modules\lodash\_baseConforms.js133182841423781255 0
 50E:\VSCode\Kings\node_modules\lodash\_baseCreate.js133182841425242533 0
 49E:\VSCode\Kings\node_modules\lodash\_baseDelay.js133182841426533652 0
@@ -7535,7 +7549,6 @@
 55E:\VSCode\Kings\node_modules\lodash\fp\extendAllWith.js133182841474843668 0
 52E:\VSCode\Kings\node_modules\lodash\fp\extendWith.js133182841474853681 0
 46E:\VSCode\Kings\node_modules\lodash\fp\find.js133182841474923732 0
-66E:\VSCode\Kings\Books\WordsOfRadiance\WindsApproach\Chapter10.html133217693720026172 0
 53E:\VSCode\Kings\node_modules\extsprintf\Makefile.targ133182841377446185 0
 50E:\VSCode\Kings\node_modules\lodash\fp\findFrom.js133182841474923732 0
 51E:\VSCode\Kings\node_modules\lodash\fp\findIndex.js133182841474943753 0
@@ -8434,6 +8447,7 @@
 49E:\VSCode\Kings\node_modules\htmlnano\LICENSE.txt133182841454838541 0
 50E:\VSCode\Kings\node_modules\htmlnano\package.json133182841432074911 0
 71E:\VSCode\Kings\node_modules\es-abstract\2018\CreateIterResultObject.js133182841466466367 0
+66E:\VSCode\Kings\Books\WordsOfRadiance\WindsApproach\Chapter22.html133217693720026172 0
 65E:\VSCode\Kings\node_modules\es-abstract\2022\Number\sameValue.js133182841486243904 0
 52E:\VSCode\Kings\node_modules\htmlnano\lib\helpers.js133182841410309493 0
 36E:\VSCode\Kings\node_modules\has\src133182841368208888 1
@@ -8796,6 +8810,7 @@
 71E:\VSCode\Kings\node_modules\fast-json-stable-stringify\test\to-json.js133182841396250625 0
 71E:\VSCode\Kings\node_modules\es-abstract\2016\FromPropertyDescriptor.js133182841475003806 0
 73E:\VSCode\Kings\node_modules\fast-json-stable-stringify\example\nested.js133182841376975773 0
+66E:\VSCode\Kings\Books\WordsOfRadiance\WindsApproach\Chapter32.html133217693720026172 0
 75E:\VSCode\Kings\node_modules\fast-json-stable-stringify\.github\FUNDING.yml133182841413902683 0
 46E:\VSCode\Kings\node_modules\fast-glob\LICENSE133182841355527872 0
 42E:\VSCode\Kings\node_modules\fast-glob\out133182841431384308 1
@@ -8910,8 +8925,6 @@
 59E:\VSCode\Kings\node_modules\@parcel\core\src\assetUtils.js133182841430533571 0
 50E:\VSCode\Kings\node_modules\es-abstract\README.md133182841489927202 0
 59E:\VSCode\Kings\node_modules\es-abstract\operations\2017.js133182841397251498 0
-47E:\VSCode\Kings\node_modules\caseless\README.md133182841359681478 0
-59E:\VSCode\Kings\node_modules\es-abstract\operations\2019.js133182841410629761 0
 63E:\VSCode\Kings\node_modules\@parcel\utils\src\shared-buffer.js133182841454968657 0
 59E:\VSCode\Kings\node_modules\es-abstract\operations\2021.js133182841413872657 0
 59E:\VSCode\Kings\node_modules\es-abstract\operations\2022.js133182841416504938 0
@@ -9117,6 +9130,7 @@
 74E:\VSCode\Kings\node_modules\es-abstract\2021\CreateDataPropertyOrThrow.js133182841466236170 0
 72E:\VSCode\Kings\node_modules\es-abstract\2021\CreateListFromArrayLike.js133182841466696565 0
 62E:\VSCode\Kings\node_modules\es-abstract\2020\MonthFromTime.js133182841481549486 0
+31E:\VSCode\Kings\js\constants.js133218615141387406 0
 69E:\VSCode\Kings\node_modules\es-abstract\2021\CreateMethodProperty.js133182841466886735 0
 75E:\VSCode\Kings\node_modules\es-abstract\2021\CreateRegExpStringIterator.js133182841466976813 0
 60E:\VSCode\Kings\node_modules\es-abstract\2021\DayFromYear.js133182841467857581 0
@@ -9409,7 +9423,6 @@
 53E:\VSCode\Kings\node_modules\es-abstract\2019\Type.js133182841489156537 0
 62E:\VSCode\Kings\node_modules\es-abstract\2019\UnicodeEscape.js133182841489256616 0
 60E:\VSCode\Kings\node_modules\es-abstract\2019\UTF16Decode.js133182841489366716 0
-62E:\VSCode\Kings\node_modules\es-abstract\2019\UTF16Encoding.js133182841489456793 0
 83E:\VSCode\Kings\node_modules\es-abstract\2019\ValidateAndApplyPropertyDescriptor.js133182841489586906 0
 59E:\VSCode\Kings\node_modules\cosmiconfig\dist\Explorer.d.ts133182841427874818 0
 69E:\VSCode\Kings\node_modules\es-abstract\2019\ValidateAtomicAccess.js133182841489656967 0
@@ -9645,7 +9658,6 @@
 83E:\VSCode\Kings\node_modules\es-abstract\2016\ValidateAndApplyPropertyDescriptor.js133182841489546869 0
 44E:\VSCode\Kings\node_modules\.bin\mkdirp.ps1133182842064521213 0
 67E:\VSCode\Kings\node_modules\es-abstract\2016\ValidateTypedArray.js133182841489757051 0
-60E:\VSCode\Kings\node_modules\dotenv-expand\dotenv-expand.png133182841359871652 0
 56E:\VSCode\Kings\node_modules\es-abstract\2016\WeekDay.js133182841489817105 0
 61E:\VSCode\Kings\node_modules\es-abstract\2016\YearFromTime.js133182841489847135 0
 52E:\VSCode\Kings\node_modules\es-abstract\2015\abs.js133182841417235576 0
@@ -9762,6 +9774,7 @@
 47E:\VSCode\Kings\node_modules\ecc-jsbn\README.md133182841359571388 0
 61E:\VSCode\Kings\node_modules\available-typed-arrays\README.md133182841396681005 0
 48E:\VSCode\Kings\node_modules\ecc-jsbn\lib\sec.js133182841392847673 0
+60E:\VSCode\Kings\node_modules\dotenv-expand\dotenv-expand.png133182841359871652 0
 53E:\VSCode\Kings\node_modules\dotenv-expand\index.d.ts133182841364595747 0
 46E:\VSCode\Kings\node_modules\dotenv-expand\lib133182841375474476 1
 50E:\VSCode\Kings\node_modules\dotenv-expand\LICENSE133182841368038737 0
@@ -10250,7 +10263,6 @@
 60E:\VSCode\Kings\node_modules\cliui\build\lib\string-utils.js133182841371170729 0
 51E:\VSCode\Kings\node_modules\clean-stack\index.d.ts133182841360181912 0
 49E:\VSCode\Kings\node_modules\clean-stack\index.js133182841364665814 0
-66E:\VSCode\Kings\Books\WordsOfRadiance\WindsApproach\Chapter11.html133217693720026172 0
 53E:\VSCode\Kings\node_modules\clean-stack\package.json133182841355748062 0
 50E:\VSCode\Kings\node_modules\clean-stack\readme.md133182841372111549 0
 67E:\VSCode\Kings\node_modules\chrome-trace-event\dist\trace-event.js133182841358620557 0
@@ -10614,7 +10626,7 @@
 73E:\VSCode\Kings\node_modules\caniuse-lite\data\features\es6-generators.js133182841475434183 0
 84E:\VSCode\Kings\node_modules\caniuse-lite\data\features\es6-module-dynamic-import.js133182841475444186 0
 69E:\VSCode\Kings\node_modules\caniuse-lite\data\features\es6-module.js133182841475474219 0
-40E:\VSCode\Kings\js\views\footerLoader.js133218427694290682 0
+40E:\VSCode\Kings\js\views\footerLoader.js133218565840920232 0
 70E:\VSCode\Kings\node_modules\caniuse-lite\data\features\eventsource.js133182841475564297 0
 80E:\VSCode\Kings\node_modules\caniuse-lite\data\features\extended-system-fonts.js133182841475594320 0
 73E:\VSCode\Kings\node_modules\caniuse-lite\data\features\feature-policy.js133182841475614339 0
@@ -10777,7 +10789,7 @@
 76E:\VSCode\Kings\node_modules\caniuse-lite\data\features\template-literals.js133182841487884885 0
 67E:\VSCode\Kings\node_modules\caniuse-lite\data\features\template.js133182841487904916 0
 67E:\VSCode\Kings\node_modules\caniuse-lite\data\features\temporal.js133182841487904916 0
-44E:\VSCode\Kings\js\views\navigationLoader.js133218546458003959 0
+44E:\VSCode\Kings\js\views\navigationLoader.js133218627812985160 0
 74E:\VSCode\Kings\node_modules\caniuse-lite\data\features\text-decoration.js133182841487934934 0
 72E:\VSCode\Kings\node_modules\caniuse-lite\data\features\text-emphasis.js133182841487944950 0
 65E:\VSCode\Kings\node_modules\caniuse-lite\data\features\tls1-3.js133182841488135637 0
@@ -11189,7 +11201,6 @@
 76E:\VSCode\Kings\node_modules\@swc\helpers\lib\_apply_decorated_descriptor.js133182841366547437 0
 60E:\VSCode\Kings\node_modules\@parcel\transformer-svg\LICENSE133182841392507379 0
 69E:\VSCode\Kings\node_modules\@swc\helpers\lib\_array_like_to_array.js133182841370820432 0
-66E:\VSCode\Kings\Books\WordsOfRadiance\WindsApproach\Chapter12.html133217693720026172 0
 69E:\VSCode\Kings\node_modules\@swc\helpers\lib\_array_without_holes.js133182841376655494 0
 74E:\VSCode\Kings\node_modules\@swc\helpers\lib\_async_generator_delegate.js133182841394148802 0
 68E:\VSCode\Kings\node_modules\@swc\helpers\lib\_async_to_generator.js133182841398442533 0
@@ -11287,6 +11298,7 @@
 86E:\VSCode\Kings\node_modules\@parcel\workers\test\integration\workerfarm\master-sum.js133182841421859598 0
 90E:\VSCode\Kings\node_modules\@parcel\workers\test\integration\workerfarm\reverse-handle.js133182841427804757 0
 92E:\VSCode\Kings\node_modules\@parcel\workers\test\integration\workerfarm\shared-reference.js133182841428335219 0
+66E:\VSCode\Kings\Books\WordsOfRadiance\WindsApproach\Chapter34.html133217693720026172 0
 55E:\VSCode\Kings\node_modules\@parcel\workers\src\bus.js133182841395710163 0
 57E:\VSCode\Kings\node_modules\@parcel\workers\src\child.js133182841402263543 0
 62E:\VSCode\Kings\node_modules\@parcel\workers\src\childState.js133182841410439599 0
@@ -11347,7 +11359,7 @@
 65E:\VSCode\Kings\node_modules\@parcel\utils\test\sourcemap.test.js133182841455318959 0
 63E:\VSCode\Kings\node_modules\@parcel\utils\test\urlJoin.test.js133182841456269705 0
 60E:\VSCode\Kings\node_modules\@parcel\utils\test\input\config133182841462245873 1
-32E:\VSCode\Kings\js\views\view.js133217745155990313 0
+32E:\VSCode\Kings\js\views\view.js133218577348708275 0
 63E:\VSCode\Kings\node_modules\@parcel\utils\test\input\sourcemap133182841462205836 1
 82E:\VSCode\Kings\node_modules\@parcel\utils\test\input\sourcemap\source-root.js.map133182841462225845 0
 68E:\VSCode\Kings\node_modules\@parcel\utils\test\input\config\.testrc133182841410309493 0
@@ -11374,6 +11386,7 @@
 67E:\VSCode\Kings\node_modules\@parcel\utils\src\isDirectoryInside.js133182841450795029 0
 74E:\VSCode\Kings\node_modules\@parcel\transformer-postcss\lib\loadConfig.js133182841400902350 0
 64E:\VSCode\Kings\node_modules\@parcel\utils\src\parseCSSImport.js133182841452176233 0
+66E:\VSCode\Kings\Books\WordsOfRadiance\WindsApproach\Chapter27.html133217693720026172 0
 62E:\VSCode\Kings\node_modules\@parcel\utils\src\PromiseQueue.js133182841453247159 0
 61E:\VSCode\Kings\node_modules\@parcel\utils\src\relativeUrl.js133182841454007814 0
 73E:\VSCode\Kings\node_modules\@parcel\utils\src\replaceBundleReferences.js133182841454258038 0
@@ -12169,30 +12182,35 @@
 42E:\VSCode\Kings\node_modules\.bin\svgo.ps1133182842064531221 0
 44E:\VSCode\Kings\node_modules\.bin\terser.ps1133182842064531221 0
 38E:\VSCode\Kings\node_modules\.bin\uuid133182842064531221 0
-24E:\VSCode\Kings\js\views133217743945606795 1
-40E:\VSCode\Kings\js\views\buttonLoader.js133218428577422708 0
+24E:\VSCode\Kings\js\views133218615748767035 1
+40E:\VSCode\Kings\js\views\buttonLoader.js133218627961539395 0
 32E:\VSCode\Kings\images\crown.ico133182876324446242 0
 26E:\VSCode\Kings\dist\Books133218548562839248 1
+39E:\VSCode\Kings\dist\index.6bc5c86c.css133218634509500467 0
 43E:\VSCode\Kings\dist\index.7c006320.css.map133218548562879288 0
+42E:\VSCode\Kings\dist\index.aae97dea.js.map133218634509550512 0
 38E:\VSCode\Kings\dist\index.c95edfa9.js133200180842092731 0
 42E:\VSCode\Kings\dist\index.c95edfa9.js.map133200180842122765 0
 39E:\VSCode\Kings\dist\index.d0b431ed.css133200180842092731 0
 43E:\VSCode\Kings\dist\index.d0b431ed.css.map133200180842122765 0
-31E:\VSCode\Kings\dist\index.html133218548562849273 0
+31E:\VSCode\Kings\dist\index.html133218634509410386 0
 53E:\VSCode\Kings\dist\Books\TheWayOfKings\AboveSilence133218548562899299 1
-34E:\VSCode\Kings\css\style.comp.css133218547784664856 0
-36E:\VSCode\Kings\css\style.prefix.css133218547801914686 0
+34E:\VSCode\Kings\css\style.comp.css133218634317009027 0
+36E:\VSCode\Kings\css\style.prefix.css133218634343352717 0
 37E:\VSCode\Kings\Books\WordsOfRadiance133217693550477937 1
-51E:\VSCode\Kings\Books\WordsOfRadiance\Prologue.html133217730271256582 0
+51E:\VSCode\Kings\Books\WordsOfRadiance\Prologue.html133218634148690636 0
 58E:\VSCode\Kings\Books\WordsOfRadiance\WordsOfRadiance.html133217692691263652 0
 66E:\VSCode\Kings\Books\WordsOfRadiance\WindsApproach\Chapter15.html133217693720026172 0
-65E:\VSCode\Kings\Books\WordsOfRadiance\WindsApproach\Chapter5.html133217693720026172 0
-65E:\VSCode\Kings\Books\WordsOfRadiance\WindsApproach\Chapter6.html133217693720026172 0
-65E:\VSCode\Kings\Books\WordsOfRadiance\WindsApproach\Chapter8.html133217693720026172 0
-65E:\VSCode\Kings\Books\WordsOfRadiance\WindsApproach\Chapter9.html133217693720026172 0
-67E:\VSCode\Kings\Books\WordsOfRadiance\WindsApproach\Interlude1.html133217693720026172 0
-67E:\VSCode\Kings\Books\WordsOfRadiance\WindsApproach\Interlude2.html133217693720026172 0
-67E:\VSCode\Kings\Books\WordsOfRadiance\WindsApproach\Interlude3.html133217693720026172 0
+66E:\VSCode\Kings\Books\WordsOfRadiance\WindsApproach\Chapter20.html133217693720026172 0
+66E:\VSCode\Kings\Books\WordsOfRadiance\WindsApproach\Chapter21.html133217693720026172 0
+66E:\VSCode\Kings\Books\WordsOfRadiance\WindsApproach\Chapter23.html133217693720026172 0
+66E:\VSCode\Kings\Books\WordsOfRadiance\WindsApproach\Chapter24.html133217693720026172 0
+66E:\VSCode\Kings\Books\WordsOfRadiance\WindsApproach\Chapter26.html133217693720026172 0
+66E:\VSCode\Kings\Books\WordsOfRadiance\WindsApproach\Chapter28.html133217693720026172 0
+66E:\VSCode\Kings\Books\WordsOfRadiance\WindsApproach\Chapter29.html133217693720026172 0
+66E:\VSCode\Kings\Books\WordsOfRadiance\WindsApproach\Chapter30.html133217693720026172 0
+67E:\VSCode\Kings\Books\WordsOfRadiance\WindsApproach\Interlude6.html133217693720026172 0
+67E:\VSCode\Kings\Books\WordsOfRadiance\WindsApproach\Interlude7.html133217693720026172 0
 58E:\VSCode\Kings\Books\WordsOfRadiance\Alight\Chapter1.html133217693720026172 0
 59E:\VSCode\Kings\Books\WordsOfRadiance\Alight\Chapter10.html133217693720026172 0
 59E:\VSCode\Kings\Books\WordsOfRadiance\Alight\Chapter11.html133217693720026172 0
@@ -12203,9 +12221,8 @@
 58E:\VSCode\Kings\Books\WordsOfRadiance\Alight\Chapter8.html133217693720026172 0
 60E:\VSCode\Kings\Books\WordsOfRadiance\Alight\Interlude1.html133217693720026172 0
 60E:\VSCode\Kings\Books\WordsOfRadiance\Alight\Interlude4.html133217693720026172 0
-48E:\VSCode\Kings\Books\TheWayOfKings\AboveSilence133188028212516046 1
+48E:\VSCode\Kings\Books\TheWayOfKings\AboveSilence133218563124245397 1
 41E:\VSCode\Kings\Books\TheWayOfKings\Dying133183147883899162 1
 54E:\VSCode\Kings\Books\TheWayOfKings\StormsIllumination133192646562966548 1
-61E:\VSCode\Kings\Books\TheWayOfKings\AboveSilence\prelude.html133188029603118661 0
-62E:\VSCode\Kings\Books\TheWayOfKings\AboveSilence\prologue.html133218548515067585 0
+61E:\VSCode\Kings\Books\TheWayOfKings\AboveSilence\Prelude.html133188029603118661 0
 50E:\VSCode\Kings\Books\Oathbringer\Oathbringer.html133207122055086882 0

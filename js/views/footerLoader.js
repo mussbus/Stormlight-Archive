@@ -2,6 +2,7 @@ import View from './view.js';
 
 class footerView extends View {
   _parentElement = document.querySelector('.footer');
+
   _generateMarkup() {
     return `
     <footer class="footer">

@@ -16,6 +16,11 @@
     text-align: center;
     font-size: $header-font-size;
     color: $color-gold;
+
+    &:hover {
+      color: $color-white;
+      cursor: pointer;
+    }
   }
 
   &__grid {
